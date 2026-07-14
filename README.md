@@ -1,6 +1,6 @@
 # Traders@UST Quant (Basic) Team - Multi-factor model
 
-A quantitative multi-factor strategy developed by the Traders@UST Quant (Basic) Team in spring 2026 for the US market in partnership with Massive.com.
+A quantitative multi-factor strategy developed by the Traders@UST Quant (Basic) Team in spring 2026 for the US market in partnership with Massive.com. Full report can be seen [here](Traders%20Quant%20(basic)%20Final%20Report%2025-26%20Spring.pdf).
 
 ## Overview
 
