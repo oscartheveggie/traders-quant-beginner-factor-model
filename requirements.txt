@@ -1,0 +1,15 @@
+pandas
+numpy
+numba
+yfinance
+matplotlib
+scipy
+statsmodels
+ta-lib
+tqdm
+massive
+python-dotenv
+cvxpy
+pyarrow
+fastparquet
+scikit-learn
